@@ -72,7 +72,7 @@ Este repositório documenta o passo a passo para configurar e visualizar métric
     
     ```
     
-    <img src="../assets/acesso_endpoint.png" alt="Acesso ao Endpoint" width="500" />
+    <img src="./assets/acesso_endpoint.png" alt="Acesso ao Endpoint" width="500" />
     
 5. Acesse as métricas expostas:**Exemplo:**
     
@@ -81,7 +81,7 @@ Este repositório documenta o passo a passo para configurar e visualizar métric
     
     ```
     
-    <img src="../assets/acesso_metricas.png" alt="Acesso as Métricas" width="500" />
+    <img src="./assets/acesso_metricas.png" alt="Acesso as Métricas" width="500" />
     
 
 ### **2. Configurar o Prometheus**
@@ -130,7 +130,7 @@ Este repositório documenta o passo a passo para configurar e visualizar métric
 3. Verifique os targets em **Status > Targets**:
 **Exemplo:**
     
-    <img src="../assets/verifica_targets.png" alt="Verificação dos Targets" width="500" />
+    <img src="./assets/verifica_targets.png" alt="Verificação dos Targets" width="500" />
     
 
 ### **3. Configurar o Grafana**
@@ -181,7 +181,7 @@ Este repositório documenta o passo a passo para configurar e visualizar métric
     
     ```
     
-    <img src="../assets/cria_dash.png" alt="Visualização de Filtros" width="500" />
+    <img src="./assets/cria_dash.png" alt="Visualização de Filtros" width="500" />
     
 
 ### Visualizar o Gráfico
@@ -190,19 +190,19 @@ Este repositório documenta o passo a passo para configurar e visualizar métric
 2. Clique em **Apply** para salvar o painel.
 **Exemplo:**
     
-    <img src="../assets/visualiza_grafico.png" alt="Visualização do Gráfico" width="500" />
+    <img src="./assets/visualiza_grafico.png" alt="Visualização do Gráfico" width="500" />
 
 ## Gráficos em Funcionamento
 
 1. Este é um exemplo de visualização do painel configurado:
 **Exemplo:**
     
-    <img src="../assets/exemplo_1.png" alt="Exemplo 1" width="500" />
+    <img src="./assets/exemplo_1.png" alt="Exemplo 1" width="500" />
     
 2. Outra visualização mostrando mais detalhes:
 **Exemplo:**
     
-    <img src="../assets/exemplo_2.png" alt="Exemplo 2" width="500" />
+    <img src="./assets/exemplo_2.png" alt="Exemplo 2" width="500" />
 
 ## Considerações Finais
 
